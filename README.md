@@ -2,7 +2,7 @@
 Aplikasi Birojodoh Menggunakan PHP Mysqli
 
 
-Aplikasi Sederhana Birojodoh Menggunakan Bahasa Pemrograman PHP Dengan Database Mysqli
+Aplikasi Sederhana Birojodoh Menggunakan Bahasa Pemrograman PHP Dengan Database Mysqli serta menggunakan metode pemrograman native prosedural. 
 
 Alur Program :
 - User Daftar/login
@@ -13,6 +13,7 @@ minat yang sama
 tersebut)
 - direct pesan publik (semua user terhubung dan bisa ikut berpartisipasi)
 - logout
+
 Fitur fitur :
 - tambah user
 - login/logout
